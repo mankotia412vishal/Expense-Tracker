@@ -1,7 +1,9 @@
-# Expense-Tracker
-
 # Expense-Tracker-Using-Mern-Stack
- 
+ ### Prerequisites
+<li> Download Nodejs.
+### Installation
+
+## instructions for running this project
 1.Clone the Repo
 2. change the path
 
@@ -16,5 +18,6 @@ cd client
 ```
 npm start
 ```
-
+**Note**
+Create a dot env file in that put mongo url and password
 ![image](https://user-images.githubusercontent.com/90970004/219322498-c0911aa5-215e-4ea9-9b8f-81d2f5f962dc.png)
